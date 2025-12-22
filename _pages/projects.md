@@ -1,11 +1,11 @@
 ---
-title: "Open Science"
+title: "Portfolio"
 layout: single
 sitemap: true
-permalink: /open-science/
+permalink: /projects/
 author_profile: true
 toc: true
-toc_label: "Open Science"
+toc_label: "Portfolio"
 toc_icon: "gear"
 toc_sticky: true
 ---
