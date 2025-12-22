@@ -12,16 +12,16 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Paige E. Martin"
+title                    : "Mostafa Kamal"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Paige Martin"
-description              : "Paige's WebPaige"
-url                      : "https://paigem.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Mostafa Kamal"
+description              : "Mostafa's Webdairy"
+url                      : "https://Mostafa-MMK.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -104,23 +104,23 @@ analytics:
 
 # Site Author
 author:
-  name             : "Paige E. Martin"
+  name             : "Md Mostafa Kamal"
   avatar           : "/assets/paige_photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Open Science Expert & Enthusiast <br><br> 
                       **Team Lead, User Training** <br> 
                       Australian Earth System Simulator (ACCESS-NRI)"
-  location         : "Canberra, Australia"
+  location         : "Offenbach, Hessen, Germany"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ms.paigem@gmail.com"
+      url: "mailto:jm.kamalmostafa@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://paigem.github.io"
+      url: "https://Mostafa-MMK.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/paigem"
+      url: "https://github.com/Mostafa-MMK"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/paige-martin-phd/"
