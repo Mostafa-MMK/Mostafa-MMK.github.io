@@ -1,11 +1,11 @@
 ---
-title: "Capacity Sharing"
+title: "Resources"
 layout: single
 sitemap: true
-permalink: /capacity-sharing/
+permalink: /resources/
 author_profile: true
 toc: true
-toc_label: "Capacity Sharing"
+toc_label: "Resources"
 toc_icon: "gear"
 toc_sticky: true
 ---
