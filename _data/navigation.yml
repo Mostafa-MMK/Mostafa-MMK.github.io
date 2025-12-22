@@ -7,7 +7,7 @@ main:
   - title: "Research" # Publications
     url: /research/
   - title: "Resources" # Capacity Sharing
-    url: /capacity-sharing/
+    url: /resources/
   - title: "CV"
     url: /assets/CV_MostafaKamal.pdf
   - title: "Blog" # Open Science
