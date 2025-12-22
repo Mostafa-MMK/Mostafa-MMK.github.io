@@ -32,3 +32,17 @@ p {
   margin-bottom: 1.1em;
 }
 
+a {
+  color: #1a1a1a;
+  text-decoration: underline;
+  text-decoration-color: #b3b3b3;
+}
+a:hover {
+  color: #000;
+  text-decoration-color: #000;
+}
+hr {
+  border: none;
+  border-top: 1px solid #e5e5e5;
+  margin: 2rem 0;
+}
