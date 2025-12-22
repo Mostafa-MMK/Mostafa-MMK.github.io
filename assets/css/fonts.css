@@ -1,0 +1,27 @@
+/* =========================================
+   Financial Times style typography
+   ========================================= */
+
+html, body {
+  font-family: "Libre Baskerville", Georgia, "Times New Roman", serif;
+  font-size: 17px;
+  line-height: 1.65;
+  color: #222;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Libre Baskerville", Georgia, serif;
+  font-weight: 700;
+}
+
+/* Navigation menu */
+.greedy-nav a {
+  font-family: "Libre Baskerville", Georgia, serif;
+}
+
+/* Sidebar name & bio */
+.author__name,
+.author__bio {
+  font-family: "Libre Baskerville", Georgia, serif;
+}
