@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: https://Mostafa-MMK.github.io
   - title: "Portfolio" # Projects
-    url: /open-science/
+    url: /projects/
   - title: "Research" # Publications
     url: /research/
   - title: "Resources" # Capacity Sharing
