@@ -35,31 +35,29 @@ feature_row:
     btn_class: "btn--inverse"
 ---
 
-# About
 
-I am **Md Mostafa Kamal**, a researcher and practitioner in **Quantitative Finance, Risk Management, and Asset Pricing**.
+# About Me
 
-My work focuses on:
-- Financial risk modeling
-- Derivatives & volatility modeling
-- Quantitative trading strategies
-- Fixed income and interest rate models
+Hi 👋, I am **Md Mostafa Kamal**, a researcher and practitioner in **Quantitative Finance, Risk Management, and Asset Pricing**. My work bridges theory and practice, focusing on developing robust financial models, innovative trading strategies, and insights into risk and derivatives markets. Through this platform, I share my research, teaching materials, and professional resources to inspire and support fellow finance professionals and enthusiasts.
 
-📌 I use this site to share:
+
+📌 **On this site, I share:**  
 - Research & publications  
 - Teaching materials  
 - Talks & workshops  
-- Professional resources (some free, some paid)
+- Professional resources (free & paid)  
 
 ---
 
-### 🔎 Research Interests
-- Quantitative Risk Management  
-- Derivatives Pricing & Volatility Models  
-- Algorithmic & FX Trading  
-- Fixed Income & Yield Curve Modeling  
+🔎 **Research Interests**
+-  Quantitative Risk Management
+-  Derivatives Pricing & Volatility Modeling
+-  Algorithmic & FX Trading Strategies
+-  Fixed Income & Yield Curve Modeling
+-  Financial Contagion & Spillover Risk
 
-Click on the links below to learn more about what I love to do!
+Explore the links below to learn what I am passionate about!
+
 
 
 
