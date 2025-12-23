@@ -16,12 +16,23 @@
     document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>
 
-<!-- ================= FORCE FONT TEST ================= -->
+<!-- ================= FINANCIAL TIMES STYLE FONT ================= -->
 <style>
   body {
-    font-family: Georgia, "Times New Roman", Times, serif !important;
-    font-size: 20px !important;
-    background-color: #ffffcc !important;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 17px;
+    line-height: 1.65;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-weight: 700;
+  }
+
+  .greedy-nav a,
+  .author__name,
+  .author__bio {
+    font-family: Georgia, "Times New Roman", Times, serif;
   }
 </style>
 
@@ -42,4 +53,3 @@
     <script src="{{ script | relative_url }}"></script>
   {% endfor %}
 {% endif %}
-
