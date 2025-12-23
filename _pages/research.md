@@ -27,9 +27,14 @@ During my PhD and Postdoc, I used a novel Fourier analysis technique to compute 
 
 ## Work in Progress
 
+-  **Md Mostafa Kamal**, (2023). FOMC Tone Sentiment and US Stock Market Reactions. _Work-in-Progress and planning to submit to Finance Research Letters_.
 
+-  **Md Mostafa Kamal**, (2023). Green Financing, Innovations, and Stock Market Performance. _Work-in-Progress and planning to submit to Energy Economics_.
 
-## Revision & Resubmission
+-  **Md Mostafa Kamal**, Eduardo Roca, Bin Li, Rajibur Reza, (2023). Ripple Effects of Local Housing Prices in Australia. _Work-in-Progress and planning to submit to Urban Studies_.
+
+-  **Md Mostafa Kamal**, Eduardo Roca, Bin Li, Longfeng Zhao, Rajibur Reza, (2023). Currency Risk Spillover during COVID-19. _Work-in-Progress and planning to submit to Finance Research Letters_.
+
 
 ## Publications
 
@@ -39,17 +44,6 @@ During my PhD and Postdoc, I used a novel Fourier analysis technique to compute 
   
 -  **Md Mostafa Kamal**, Lin Chen, Longfeng Zhao, Zhilin Qiao, (2024). [COVID-19 Pandemic Effects in Global Stock Markets: Application of PMFG & Threshold Network](http://dx.doi.org/10.2139/ssrn.3832383). _Revised and Resubmitted to Physica A: Statistical Mechanics and its Applications_.
 
--  **Md Mostafa Kamal**, (2023). FOMC Tone Sentiment and US Stock Market Reactions. _Work-in-Progress and planning to submit to Finance Research Letters_.
-
--  **Md Mostafa Kamal**, (2023). Green Financing, Innovations, and Stock Market Performance. _Work-in-Progress and planning to submit to Energy Economics_.
-
 -  **Md Mostafa Kamal**, Lin Chen, Longfeng Zhao, (2023). [Sports Event Outcomes and Stock Market Behavior: Evidence from Bangladesh](https://dx.doi.org/10.2139/ssrn.3832372). _Revised and Resubmitted to International Journal of Sport Finance_.
 
--  **Md Mostafa Kamal**, Eduardo Roca, Bin Li, Rajibur Reza, (2023). Ripple Effects of Local Housing Prices in Australia. _Work-in-Progress and planning to submit to Urban Studies_.
-
--  **Md Mostafa Kamal**, Eduardo Roca, Bin Li, Longfeng Zhao, Rajibur Reza, (2023). Currency Risk Spillover during COVID-19. _Work-in-Progress and planning to submit to Finance Research Letters_.
-
 -  **Md Mostafa Kamal**, (2021) supervised by Professor Chen Lin. The Influence Analysis of Systematic Risk of Foreign Stock Markets on Local Stock Indices. _Master Thesis for Management Science_.
-
-
-
