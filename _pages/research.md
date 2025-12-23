@@ -10,7 +10,9 @@ toc_icon: "gear"
 toc_sticky: true
 ---
 
-## Air-Sea Fluxes
+My research focuses on understanding the ocean's role in the climate system, particularly the intricate dynamics of energy transfer and air-sea interaction. I use a combination of climate model analysis, novel statistical techniques, and open-source software development to investigate these processes across different scales.
+
+## Financial Contagion & Risk Spillover (Complex Network Approach)
 
 With colleagues during my postdoc at Lamont-Doherty Earth Observatory in Columbia University, I looked at the effect of spatial resolution on air-sea heat fluxes in global climate models. We have worked collaboratively throughout the project, and co-developed a software package called [aerobulk-python](https://github.com/xgcm/aerobulk-python) that is a Python wrapper for existing Fortran code to carry out the highly complicated air-sea flux bulk formulae used in climate models. The paper is currently in prep, and I will add more details soon!
 
@@ -18,6 +20,8 @@ With colleagues during my postdoc at Lamont-Doherty Earth Observatory in Columbi
 
 During my PhD and Postdoc, I used a novel Fourier analysis technique to compute energy and temperature variance budgets in the ocean, using climate model data. I worked with both idealized and realistic coupled, ocean-atmosphere models, and traced the root mechanisms driving both energy and temperature variance budgets. In both cases, I used open-source, Python code for my analysis, and used both HPC and Cloud computing platforms.
 
+## Work in Progress
+## Revision & Resubmission
 ## Publications
 
 Arbic, B.K., S. Elipot, J.M. Brasch, D. Menemenlis, A.L. Ponte, J.F. Shriver, X. Yu, E.D. Zaron, M.H. Alford, M.C. Buijsman, R. Abernathey, D. Garcia, L. Guan, P.E. Martin, and A.D. Nelson (2022), [Near-surface oceanic kinetic energy distributions from drifter observations and numerical models](https://doi.org/10.1029/2022JC018551), _Journal of Geophysical Research: Oceans_, 127, e2022JC018551.
