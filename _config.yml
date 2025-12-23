@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mostafa Kamal"
+title                    : "MD MOSTAFA KAMAL"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Homepage" # site tagline that appears below site title in masthead
 name                     : "Md Mostafa Kamal"
 description              : "Mostafa's Webdairy"
 url                      : "https://Mostafa-MMK.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
