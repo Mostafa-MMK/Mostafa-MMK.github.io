@@ -28,7 +28,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 100
+words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Mostafa Kamal"
-  avatar           : "/assets/profile_photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/headshot.jpg  # profile_photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Quant Risk Analysis & Modeling"       # "Open Science Expert & Enthusiast <br><br> **Team Lead, User Training** <br> Australian Earth System Simulator (ACCESS-NRI)"
   location         : "Offenbach, Hessen, Germany"
   employer         : "EUREX Clearing AG"
