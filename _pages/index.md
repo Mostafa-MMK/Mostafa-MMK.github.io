@@ -28,7 +28,7 @@ feature_row:
     btn_class: "btn--inverse"
   - image_path: /assets/coessing_2019.jpg
     alt: "2019 group photo from Coastal Ocean Environment Summer School in Nigeria and Ghana"
-    title: "Updates and Insights"
+    title: "Updates"
     excerpt: "Inspiring ocean science education, training, and global research collaborations"
     url: "blog"
     btn_label: "Read More"
@@ -37,6 +37,8 @@ feature_row:
 
 
 # About Me
+
+<img src="assets/background_photo_02.jpg" alt="your photo" style="float: right; width: 200px; margin: 0px 0px 15px 15px;"/>
 
 Hi 👋, I'm Md Mostafa Kamal, a researcher and practitioner specializing in quantitative analysis and risk management 🚦. My work bridges the crucial gap between theory and practice. I develop robust risk models and innovative trading approaches to provide actionable insights into complex financial markets. My expertise spans quantitative risk management, derivatives pricing and volatility modeling 📈, algorithmic and FX trading strategies 🤖, fixed income and yield curve analysis 📊, and the dynamics of financial contagion and spillover risk 🌐. Through this platform, I am excited to share my research 📄, project work, and professional resources to support and collaborate with fellow finance professionals, academics, and enthusiasts.
 
