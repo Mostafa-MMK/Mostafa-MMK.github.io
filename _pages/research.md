@@ -10,7 +10,12 @@ toc_icon: "gear"
 toc_sticky: true
 ---
 
-My research focuses on understanding the ocean's role in the climate system, particularly the intricate dynamics of energy transfer and air-sea interaction. I use a combination of climate model analysis, novel statistical techniques, and open-source software development to investigate these processes across different scales.
+My research focuses on understanding the ocean's role in the climate system, particularly the intricate dynamics of energy transfer and air-sea interaction. I use a combination of climate model analysis, novel statistical techniques, and open-source software development to investigate these processes across different scales. Broadly, my research **interests** are:
+
+- Risk and finanical crisis
+- Asset pricing
+- Quantitative analysis
+
 
 ## Financial Contagion & Risk Spillover (Complex Network Approach)
 
