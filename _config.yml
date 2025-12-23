@@ -138,6 +138,9 @@ author:
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/your_profile_name"
+    - label: "SSRN"
+      icon: "ai ai-fw ai-ssrn"
+      url: "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4367847"
 
 # Site Footer
 footer:
