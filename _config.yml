@@ -106,9 +106,7 @@ analytics:
 author:
   name             : "Mostafa Kamal"
   avatar           : "/assets/profile_photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Open Science Expert & Enthusiast <br><br> 
-                      **Team Lead, User Training** <br> 
-                      Australian Earth System Simulator (ACCESS-NRI)"
+  bio              : "Quantitative Finance & Risk Management Researcher | Derivatives, Trading Strategies & Fixed Income Specialist"       # "Open Science Expert & Enthusiast <br><br> **Team Lead, User Training** <br> Australian Earth System Simulator (ACCESS-NRI)"
   location         : "Offenbach, Hessen, Germany"
   email            :
   links:
