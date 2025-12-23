@@ -1,17 +1,28 @@
+/* =========================================
+   Financial Times style (SYSTEM FONTS)
+   GUARANTEED TO WORK
+   ========================================= */
+
 html, body {
-  font-family: "Libre Baskerville", Georgia, "Times New Roman", serif !important;
-  font-size: 17px;
-  line-height: 1.65;
-  color: #222;
+  font-family: Georgia, "Times New Roman", Times, serif !important;
+  font-size: 17px !important;
+  line-height: 1.65 !important;
+  color: #222 !important;
 }
 
+/* Headings */
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Libre Baskerville", Georgia, serif !important;
-  font-weight: 700;
+  font-family: Georgia, "Times New Roman", Times, serif !important;
+  font-weight: 700 !important;
 }
 
-.greedy-nav a,
+/* Navigation */
+.greedy-nav a {
+  font-family: Georgia, "Times New Roman", Times, serif !important;
+}
+
+/* Sidebar */
 .author__name,
 .author__bio {
-  font-family: "Libre Baskerville", Georgia, serif !important;
+  font-family: Georgia, "Times New Roman", Times, serif !important;
 }
