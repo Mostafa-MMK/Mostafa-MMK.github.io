@@ -26,10 +26,13 @@ With colleagues during my postdoc at Lamont-Doherty Earth Observatory in Columbi
 During my PhD and Postdoc, I used a novel Fourier analysis technique to compute energy and temperature variance budgets in the ocean, using climate model data. I worked with both idealized and realistic coupled, ocean-atmosphere models, and traced the root mechanisms driving both energy and temperature variance budgets. In both cases, I used open-source, Python code for my analysis, and used both HPC and Cloud computing platforms.
 
 ## Work in Progress
+
+
+
 ## Revision & Resubmission
 ## Publications
 
-Arbic, B.K., S. Elipot, J.M. Brasch, D. Menemenlis, A.L. Ponte, J.F. Shriver, X. Yu, E.D. Zaron, M.H. Alford, M.C. Buijsman, R. Abernathey, D. Garcia, L. Guan, P.E. Martin, and A.D. Nelson (2022), [Near-surface oceanic kinetic energy distributions from drifter observations and numerical models](https://doi.org/10.1029/2022JC018551), _Journal of Geophysical Research: Oceans_, 127, e2022JC018551.
+-- Md Mostafa Kamal, Eduardo Roca, Bin Li, Chen Lin, Rajibur Reza, (2025). [Price Contagion and Risk Spillover in the Global Commodities Market: COVID-19 Pandemic vs. Global Financial Crisis](https://www.sciencedirect.com/science/article/pii/S0301420725000959?via%3Dihub). Published in _Resources Policy_.
 
 Light, C.X., Arbic, B.K., Martin, P.E. et al. (2022) [Effects of grid spacing on high-frequency precipitation variance in coupled high-resolution global ocean-atmosphere models](https://doi.org/10.1007/s00382-022-06257-6), _Climate Dynamics_.
 
