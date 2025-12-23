@@ -7,10 +7,10 @@ author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
-  overlay_image: assets/ocean_albatross_straightened.JPG
+  overlay_image: assets/background_photo_0.JPG #ocean_albatross_straightened.JPG
   actions:
     - label: "Download CV"
-      url: "assets/Paige_CV.pdf"
+      url: "assets/CV_MostafaKamal.pdf"
 feature_row:
   - image_path: /assets/research_global_map.png
     alt: "global map"
