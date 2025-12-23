@@ -134,10 +134,10 @@ author:
       # url: "https://instagram.com/"
     - label: "Google Scholar"
       icon: "ai ai-fw ai-google-scholar-square"
-      url: "https://scholar.google.com/citations?user=your_username_here"
+      url: "https://scholar.google.com/citations?user=GDt_2UMAAAAJ&hl=en&oi=sra"
     - label: "ResearchGate"
       icon: "ai ai-fw ai-researchgate-square"
-      url: "https://www.researchgate.net/profile/your_profile_name"
+      # url: "https://www.researchgate.net/profile/your_profile_name"
 
 # Site Footer
 footer:
