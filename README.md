@@ -1,6 +1,6 @@
-# Mostafa's webPage!
+# Mostafa's webpage!
 
-Welcome to my webpa(i)ge (pun intended)! To view the site, you can go to [Website](https//Mostafa-MMK.github.io).
+Welcome to my website! To view the site, you can go to [Website](https//Mostafa-MMK.github.io).
 
 Thanks for visiting!
 
