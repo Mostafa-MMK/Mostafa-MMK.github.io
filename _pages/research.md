@@ -32,7 +32,7 @@ During my PhD and Postdoc, I used a novel Fourier analysis technique to compute 
 ## Revision & Resubmission
 ## Publications
 
--  Md Mostafa Kamal, Eduardo Roca, Bin Li, Chen Lin, Rajibur Reza, (2025). [Price Contagion and Risk Spillover in the Global Commodities Market: COVID-19 Pandemic vs. Global Financial Crisis](https://www.sciencedirect.com/science/article/pii/S0301420725000959?via%3Dihub). Published in _Resources Policy_.
+-  **Md Mostafa Kamal**, Eduardo Roca, Bin Li, Chen Lin, Rajibur Reza, (2025). [Price Contagion and Risk Spillover in the Global Commodities Market: COVID-19 Pandemic vs. Global Financial Crisis](https://www.sciencedirect.com/science/article/pii/S0301420725000959?via%3Dihub). Published in _Resources Policy_.
 
 Light, C.X., Arbic, B.K., Martin, P.E. et al. (2022) [Effects of grid spacing on high-frequency precipitation variance in coupled high-resolution global ocean-atmosphere models](https://doi.org/10.1007/s00382-022-06257-6), _Climate Dynamics_.
 
