@@ -1,48 +1,9 @@
-/* ========== Financial Times Style ========== */
+/* ===============================
+   Sidebar avatar size (bigger)
+   =============================== */
 
-/* Body text – FT-like serif */
-body {
-  font-family: "Libre Baskerville", Georgia, "Times New Roman", serif;
-  font-size: 17px;
-  line-height: 1.65;
-  color: #222;
-  background-color: #fff;
-}
-
-/* Headings – editorial look */
-h1, h2, h3, h4 {
-  font-family: "Libre Baskerville", Georgia, serif;
-  font-weight: 700;
-  letter-spacing: -0.01em;
-}
-
-/* Sidebar author name */
-.author__name {
-  font-family: "Libre Baskerville", Georgia, serif;
-  font-weight: 700;
-}
-
-/* Navigation links */
-.greedy-nav a {
-  font-family: "Libre Baskerville", Georgia, serif;
-}
-
-/* Paragraph spacing like FT */
-p {
-  margin-bottom: 1.1em;
-}
-
-a {
-  color: #1a1a1a;
-  text-decoration: underline;
-  text-decoration-color: #b3b3b3;
-}
-a:hover {
-  color: #000;
-  text-decoration-color: #000;
-}
-hr {
-  border: none;
-  border-top: 1px solid #e5e5e5;
-  margin: 2rem 0;
+.author__avatar img {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
 }
