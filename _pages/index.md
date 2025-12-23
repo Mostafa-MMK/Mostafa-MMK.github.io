@@ -7,7 +7,7 @@ author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
-  overlay_image: assets/background_photo_04.jpg  #ocean_albatross_straightened.JPG
+  overlay_image: assets/background_photo_05.jpg  #ocean_albatross_straightened.JPG
   actions:
     - label: "Download CV"
       url: "assets/CV_MostafaKamal.pdf"
