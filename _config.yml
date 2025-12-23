@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Mostafa Kamal"
-  avatar           : "/assets/profile_photo.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/profile_photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Open Science Expert & Enthusiast <br><br> 
                       **Team Lead, User Training** <br> 
                       Australian Earth System Simulator (ACCESS-NRI)"
