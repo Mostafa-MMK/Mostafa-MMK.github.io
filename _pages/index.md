@@ -21,14 +21,14 @@ feature_row:
     btn_class: "btn--inverse"
   - image_path: /assets/cormorant.JPG
     alt: "Cormorant posing on a sea-side rock"
-    title: "Portfolio"
+    title: "Project Portfolio"
     excerpt: "Promoting open-source software, open data, and open practices in the science community"
     url: "projects"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/coessing_2019.jpg
     alt: "2019 group photo from Coastal Ocean Environment Summer School in Nigeria and Ghana"
-    title: "Blog"
+    title: "Updates and Insights"
     excerpt: "Inspiring ocean science education, training, and global research collaborations"
     url: "blog"
     btn_label: "Read More"
@@ -37,7 +37,27 @@ feature_row:
 
 # About
 
-Hi, I'm Paige! 👋  I am a scientist by training, with a background in climate data science 👩‍💻 and physical oceanography 🌊. I have years of scientific and technical expertise in large-scale data analysis, open-source software, and cloud computing. By using open-source technology and human connection, I work to support and enable open science. I envision a future with robust, transparent, and inclusive scientific research, and believe that open science frameworks are the best tools to achieve this vision.
+I am **Md Mostafa Kamal**, a researcher and practitioner in **Quantitative Finance, Risk Management, and Asset Pricing**.
+
+My work focuses on:
+- Financial risk modeling
+- Derivatives & volatility modeling
+- Quantitative trading strategies
+- Fixed income and interest rate models
+
+📌 I use this site to share:
+- Research & publications  
+- Teaching materials  
+- Talks & workshops  
+- Professional resources (some free, some paid)
+
+---
+
+### 🔎 Research Interests
+- Quantitative Risk Management  
+- Derivatives Pricing & Volatility Models  
+- Algorithmic & FX Trading  
+- Fixed Income & Yield Curve Modeling  
 
 Click on the links below to learn more about what I love to do!
 
