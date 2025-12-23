@@ -1,9 +1,18 @@
-/* ===============================
-   Sidebar avatar size (bigger)
-   =============================== */
+/* =====================================
+   GitHub-style sidebar avatar
+   ===================================== */
+
+.author__avatar {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
 
 .author__avatar img {
-  width: 160px;
-  height: 160px;
+  width: 180px;          /* GitHub-like size */
+  height: 180px;
   border-radius: 50%;
+  object-fit: cover;
+  border: 1px solid #d0d7de;   /* GitHub light gray border */
+  background-color: #fff;
 }
