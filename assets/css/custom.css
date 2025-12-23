@@ -1,18 +1,40 @@
-/* =====================================
-   GitHub-style sidebar avatar
-   ===================================== */
+/* =========================================
+   Global Typography – Academic / Professional
+   ========================================= */
 
-.author__avatar {
-  display: flex;
-  justify-content: center;
-  margin-bottom: 1rem;
+/* Body text (projects, pages, posts) */
+body {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont,
+               "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 16.5px;
+  line-height: 1.65;
 }
 
-.author__avatar img {
-  width: 180px;          /* GitHub-like size */
-  height: 180px;
-  border-radius: 50%;
-  object-fit: cover;
-  border: 1px solid #d0d7de;   /* GitHub light gray border */
-  background-color: #fff;
+/* Headings (titles, section headers) */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Source Serif 4", Georgia, serif;
+  font-weight: 600;
+}
+
+/* Navigation bar */
+.greedy-nav a {
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+}
+
+/* Sidebar name */
+.author__name {
+  font-family: "Source Serif 4", Georgia, serif;
+  font-weight: 600;
+}
+
+/* Sidebar bio */
+.author__bio {
+  font-family: "Inter", sans-serif;
+  font-size: 0.95em;
+}
+
+/* TOC (table of contents) */
+.toc__menu a {
+  font-family: "Inter", sans-serif;
 }
