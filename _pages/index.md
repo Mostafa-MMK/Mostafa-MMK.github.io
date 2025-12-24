@@ -28,7 +28,7 @@ feature_row:
     btn_class: "btn--inverse"
   - image_path: /assets/coessing_2019.jpg
     alt: "2019 group photo from Coastal Ocean Environment Summer School in Nigeria and Ghana"
-    title: "Updates"
+    title: "News"
     excerpt: "Inspiring ocean science education, training, and global research collaborations"
     url: "blog"
     btn_label: "Read More"
