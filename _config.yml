@@ -81,7 +81,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  #username               :SciencePaige
+  #username               :MostafaQfin
 facebook:
   username               :
   app_id                 :
@@ -147,7 +147,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/SciencePaige
+      url: https://twitter.com/MostafaQfin
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
