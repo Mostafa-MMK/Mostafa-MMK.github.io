@@ -10,7 +10,7 @@ toc_icon: "gear"
 toc_sticky: true
 ---
 
-This portfolio presents a collection of my key projects in quantitative risk management and financial engineering. Grounded in my professional experience at institutions like [EUREX Clearing](https://www.eurex.com/ec-en) and [Deutsche Börse](https://deutsche-boerse.com/dbg-de/), and academic work at [WorldQuant](https://www.wqu.edu/), these projects demonstrate my proficiency in _developing, validating, and implementing sophisticated risk models_. Each project is designed to solve practical financial problems, leveraging advanced analytical techniques and robust programming in `Python´. The associated GitHub repositories provide a transparent view of my methodologies and coding expertise.
+This portfolio presents a collection of my key projects in quantitative risk management and financial engineering. Grounded in my professional experience at institutions like [EUREX Clearing](https://www.eurex.com/ec-en) and [Deutsche Börse](https://deutsche-boerse.com/dbg-de/), and academic work at [WorldQuant](https://www.wqu.edu/), these projects demonstrate my proficiency in _developing, validating, and implementing sophisticated risk models_. Each project is designed to solve practical financial problems, leveraging advanced analytical techniques and robust programming in `Python`. The associated GitHub repositories provide a transparent view of my methodologies and coding expertise.
 
 ## Market Risk Modeling
 
