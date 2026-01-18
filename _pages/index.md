@@ -12,24 +12,24 @@ header:
     - label: "Download CV"
       url: "assets/CV_MostafaKamal.pdf"
 feature_row:
-  - image_path: /assets/research_global_map.png
+  - image_path: /assets/global_network.jpg
     alt: "global map"
-    title: "Scientific Research"
+    title: "Research"
     excerpt: "Understanding global financial risk dynamics and risk-asset prices interactions"
     url: "research"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/background_photo_01.jpg
-    alt: "Cormorant posing on a sea-side rock"
-    title: "Project Portfolio"
-    excerpt: "Promoting open-source software, open data, and open practices in the science community"
+    alt: "Risk compas"
+    title: "Projects"
+    excerpt: "Promoting open-sources sofware, data, and collaborating on exciting projects"
     url: "projects"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/background_photo_05.jpg
-    alt: "2019 group photo from Coastal Ocean Environment Summer School in Nigeria and Ghana"
+    alt: "Configuring and promoting risk awareness"
     title: "News"
-    excerpt: "Inspiring ocean science education, training, and global research collaborations"
+    excerpt: "Sharing ideas, promoting thoughts, and building together a stable tomorrow"
     url: "blog"
     btn_label: "Read More"
     btn_class: "btn--inverse"
