@@ -15,11 +15,11 @@ feature_row:
   - image_path: /assets/research_global_map.png
     alt: "global map"
     title: "Scientific Research"
-    excerpt: "Understanding the ocean’s role in climate variability and air-sea interaction"
+    excerpt: "Understanding global financial risk dynamics and risk-asset prices interactions"
     url: "research"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/background_photo_01.JPG
+  - image_path: /assets/background_photo_01.jpg
     alt: "Cormorant posing on a sea-side rock"
     title: "Project Portfolio"
     excerpt: "Promoting open-source software, open data, and open practices in the science community"
