@@ -12,7 +12,7 @@ header:
     - label: "Download CV"
       url: "assets/CV_MostafaKamal.pdf"
 feature_row:
-  - image_path: /assets/global_network.jpg
+  - image_path: /assets/global_financial_network.jpg
     alt: "global map"
     title: "Research"
     excerpt: "Understanding global financial risk dynamics and risk-asset prices interactions"
