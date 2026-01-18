@@ -19,7 +19,7 @@ feature_row:
     url: "research"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/cormorant.JPG
+  - image_path: /assets/background_photo_01.JPG
     alt: "Cormorant posing on a sea-side rock"
     title: "Project Portfolio"
     excerpt: "Promoting open-source software, open data, and open practices in the science community"
