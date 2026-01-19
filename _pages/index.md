@@ -10,7 +10,7 @@ header:
   overlay_image: assets/background_photo_03.jpg  #ocean_albatross_straightened.JPG
   actions:
     - label: "Download CV"
-      url: "assets/CV_MostafaKamal.pdf"
+      url: "assets/CV_Md_Mostafa_Kamal_ExQ20260119.pdf"
 feature_row:
   - image_path: /assets/background_photo_04.jpg
     alt: "global map"
