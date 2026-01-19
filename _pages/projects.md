@@ -27,7 +27,7 @@ A critical component of market risk management is not only calculating Value at 
     *   The framework is designed to ingest portfolio return series and corresponding VaR estimates to automatically generate test statistics, p-values, and clear model performance summaries.
 *   **Technical Stack:** Developed in Python, utilizing `Pandas` for time series manipulation, `NumPy` and `SciPy`/`Statsmodels` for statistical calculations and hypothesis testing.
 
-*   **Associated Repository:** [Link to Your GitHub Repository Here]
+*   **Associated Repository:** [Link to the GitHub Repository Here](https://github.com/Mostafa-MMK/VaRBacktestingEngine)]
 
 ## Credit Risk Modeling
 
@@ -43,7 +43,7 @@ This project showcases the development of a full suite of credit risk models—P
     *   **Model Types:** Explored both structural models (Merton-style) and reduced-form models to understand their theoretical underpinnings and practical implications.
 *   **Technical Stack:** The project was built using Python, with `scikit-learn` for machine learning model implementation, `Statsmodels` for detailed statistical analysis, and `Matplotlib` for performance visualization.
 
-*   **Associated Repository:** [Link to Your GitHub Repository Here]
+*   **Associated Repository:** [Link to the GitHub Repository Here](https://github.com/Mostafa-MMK/CreditRiskModels)
 
 ## Fixed Income & Interest Rate Modeling
 
@@ -59,7 +59,7 @@ Accurately constructing and interpreting the yield curve is fundamental to fixed
     *   **Risk Calculation:** The constructed curves and PCA factors were then used to calculate key risk metrics like DV01 (Dollar Value of a '01) and Convexity for fixed income portfolios.
 *   **Technical Stack:** Python, with `NumPy` and `SciPy` for optimization and interpolation during bootstrapping, and `scikit-learn` for performing PCA.
 
-*   **Associated Repository:** [Link to Your GitHub Repository Here]
+*   **Associated Repository:** [Link to the GitHub Repository Here](https://github.com/Mostafa-MMK/FixedIncomeModels)
 
 ## Derivative Pricing Models
 
@@ -76,7 +76,7 @@ This project goes beyond the standard Black-Scholes model to implement more soph
     *   **Local Volatility Model:** An alternative approach that assumes volatility is a deterministic function of the asset price and time, calibrated to perfectly match observed market option prices.
 *   **Technical Stack:** This project was implemented in Python, leveraging `QuantLib` for its powerful financial engineering capabilities, alongside `NumPy` and `SciPy` for numerical methods like Monte Carlo simulation and PDE solvers.
 
-*   **Associated Repository:** [Link to Your GitHub Repository Here]
+*   **Associated Repository:** [Link to the GitHub Repository Here](https://github.com/Mostafa-MMK/DerivativePricing)
 
 
 
